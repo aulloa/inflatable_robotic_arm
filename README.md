@@ -3,8 +3,7 @@
 **Supervisors**: Dr. Kathleen Lamkin-Kennard, and Art North
 **Sponsers**: Rochester Institute of Technology, Boeing
 
-**insert gif of robot here**
-
+![Demo CountPages alpha](https://github.com/aulloa/inflatable_robotic_arm/raw/master/photo_gallery/output.gif)
 
 ### Repository Stucture
 The IRA system is broken down into 4 subsystems.
